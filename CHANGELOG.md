@@ -1,6 +1,7 @@
 ## v1.1.5
 
 * Fixed issue with non-HTTPS Git repository was triggering an error on RHEL.
+* Updated tests to use Bats and Chefspec
 
 ## v1.1.4
 
